@@ -1,2 +1,6 @@
 lan 2
+<<<<<<< HEAD
 lan 4 onpremise
+=======
+lan 3 on cloud
+>>>>>>> 72781c994b241994552061a0326576c42ceb0e6f
